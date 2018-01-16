@@ -7,10 +7,10 @@
 The Chaos Kit comprises of all the necessary python scripts for embedding information inside an image in a way that it goes unnoticed even with the Virtual Steganography Tool ([VSL](http://vsl.sourceforge.net/)).<br>
 [Here](https://doi.org/10.1109/ICRCICN.2017.8234536) is the link to the IEEE publication based on the this work.
 
+## Concept Flow
+<p align="center"><img src="./CFD.png" heigth="473" width="488"> &nbsp </p>
+
 ## Usage
-  <p align="center">
- <img src="./CFD.png" heigth="473" width="488"> &nbsp 
-</p>
   - Download all the file as zip from [here](https://github.com/TamojitSaha/ChaosKit/archive/0.0.1.zip)
   - After install Python and running ```pip install opencv-python``` open ["<i>steganography.py</i>"](./steganography.py). <b>Dont run it now!</b>
   - Make a text file named "<i>msg.txt</i>" in the same directory and put your own message.  For [this particular image](./image.tiff?raw=true), the message file should be less than <b>8kb</b>. 
