@@ -9,7 +9,7 @@ The Chaos Kit comprises of all the necessary python scripts for embedding inform
 
 ## Usage
   <p align="center">
- <img src="./CFD.png" heigth="473" width="488"> &nbsp 
+ <img src="./CFD.svg" heigth="473" width="488"> &nbsp 
 </p>
   - Download all the file as zip from [here](https://github.com/TamojitSaha/ChaosKit/archive/0.0.1.zip)
   - After install Python and running ```pip install opencv-python``` open ["<i>steganography.py</i>"](./steganography.py). <b>Dont run it now!</b>
