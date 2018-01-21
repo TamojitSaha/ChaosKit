@@ -20,7 +20,7 @@ The Chaos Kit comprises of all the necessary python scripts for embedding inform
 <p align="center"><img src="./CFD.png" heigth="473" width="488"> &nbsp </p>
 
 ## Usage
-  - Download all the file as zip from [here](https://github.com/TamojitSaha/ChaosKit/archive/0.0.1.zip)
+  - Download all the file as zip from [here](../../releases/latest)
   - After install Python and running ```pip install opencv-python``` open ["<i>steganography.py</i>"](./steganography.py). <b>Dont run it now!</b>
   - Make a text file named "<i>msg.txt</i>" in the same directory and put your own message.  For [this particular image](./image.tiff?raw=true), the message file should be less than <b>8kb</b>. 
   - The default password is ```-1, 2.01, 3 ```. Refer to <i><b>line 127</b></i> and <i><b>line 230</b></i> of ["<i>steganography.py</i>"](./steganography.py) to embed and decipher respectively. 
