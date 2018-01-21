@@ -1,5 +1,14 @@
 <h1 align="center"> ChaosKit </h1> <br>
 
+## Table of Contents
+- [About](#about)
+- [Concept Flow](#concept-flow)
+- [Usage](#usage)
+- [Authors](#authors)
+- [License](#license)
+- [Feedback](#feedback)
+
+
 ## About
 [![Build Platforms](https://img.shields.io/badge/build_platform-Python2.7-3776AB.svg)](https://www.python.org/download/releases/2.7/)
 [![Dependency](https://img.shields.io/badge/dependency-OpenCV-red.svg)](https://pypi.python.org/pypi/opencv-python)
@@ -23,6 +32,10 @@ The Chaos Kit comprises of all the necessary python scripts for embedding inform
 [![ID](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.linkedin.com/in/tamojit-saha/)<br>
 [![ID](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.linkedin.com/in/sandeepan-sengupta/)<br>
 [![ID](https://img.shields.io/badge/id-Tanmoy-54C7EC.svg?style=for-the-badge)]( https://www.researchgate.net/profile/Tanmoy_Dasgupta)
+
+## License
+Contents of this repository are realeased under [CC-BY-NC-SA 4.0](./LICENSE.md) <br>
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Feedback
 You can always open a [issue](https://github.com/TamojitSaha/ChaosKit/issues/new) if you find any bug.
