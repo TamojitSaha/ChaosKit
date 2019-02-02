@@ -29,9 +29,9 @@ The Chaos Kit comprises of all the necessary python scripts for embedding inform
   - Now you can run the file and look for <b><i>image_encoded.tiff</i></b> file in the same directory.
   
 ## Authors
-[![ID](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.linkedin.com/in/tamojit-saha/)<br>
-[![ID](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.linkedin.com/in/sandeepan-sengupta/)<br>
-[![ID](https://img.shields.io/badge/id-Tanmoy-54C7EC.svg?style=for-the-badge)]( https://www.researchgate.net/profile/Tanmoy_Dasgupta)
+[![ID](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](http://tamojitsaha.info)<br>
+[![ID](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](http://sandeepan.info)<br>
+[![ID](https://img.shields.io/badge/id-Tanmoy-54C7EC.svg?style=for-the-badge)]( http://github.com/thetdg)
 
 ## License
 Contents of this repository are realeased under [CC-BY-NC-SA 4.0](./LICENSE.md) <br>
